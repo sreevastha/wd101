@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <th class="px-4 py-2">Email</th>
               <th class="px-4 py-2">Password</th>
               <th class="px-4 py-2">DOB</th>
-              <th class="px-4 py-2">Accept Terms?</th>
+              <th class="px-4 py-2">Accepted Terms?</th>
             </tr>
           </thead>
           <tbody>
